@@ -11,3 +11,4 @@ This lab demonstrates configuration as code using Puppet to manage users and dep
 
 ## managehome
 managehome => true ensures the home directory is created and managed for each user.
+
